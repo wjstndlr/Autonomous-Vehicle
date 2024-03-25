@@ -31,4 +31,7 @@
   - OpenCV
   - Python
   - Lidar Data
+   
+## 4. 주행영상
+[![자율주행 대회 공모 주행 영상](http://img.youtube.com/vi/u8De6DQmtCg/0.jpg)](https://www.youtube.com/watch?v=u8De6DQmtCg)
   
