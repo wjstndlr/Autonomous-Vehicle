@@ -32,5 +32,3 @@
   - Python
   - Lidar Data
   
-## 4. 주행 영상
-
